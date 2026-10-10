@@ -4,4 +4,4 @@
 
 ### b) Quais cuidados devem ser tomados?
 
- -> É necessário verificar se o índice está dentro dos limites do array e, no caso de arrays de objetos, verificar se o elemento não é null antes de acessar seus atributos ou métodos, evitando erros como NullPointerException.
+ -> É necessário verificar se o índice está dentro dos limites do array e, no caso de arrays de objetos, verificar se o elemento não é null antes de acessar seus atributos ou métodos, evitando erros.
